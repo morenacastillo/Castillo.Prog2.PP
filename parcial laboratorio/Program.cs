@@ -11,6 +11,7 @@ namespace parcial_laboratorio
         static void Main(string[] args)
         {
             Console.WriteLine("hola");
+            Console.WriteLine("asdasdas");
             Console.ReadKey();
         }
     }
